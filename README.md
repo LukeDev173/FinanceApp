@@ -1,4 +1,4 @@
-# LukeFinance
+# FinanceApp
 
 A Windows desktop personal-finance app with a dark/light theme.
 
@@ -28,4 +28,4 @@ A Windows desktop personal-finance app with a dark/light theme.
 - Local SQLite storage, no account or bank connection required.
 
 ## Data storage
-Your database is stored at `%USERPROFILE%\.lukefinance\finance.db` and remains in place when you replace the app folder. The starting balance is stored in the same database in a separate settings table, not as an income transaction. Use the backup option in Reports to create a backup.
+Your database is stored at `%USERPROFILE%\.name\finance.db` and remains in place when you replace the app folder. The starting balance is stored in the same database in a separate settings table, not as an income transaction. Use the backup option in Reports to create a backup.
